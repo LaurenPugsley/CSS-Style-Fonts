@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Fonts</title>
+<style>
+*  {font-family: "Times New Roman", Times, serif;}
+
+p {
+font-style:italic;
+color:darkgoldenrod
+
+}
+
+</style>
+</head>
+
+<body>
+	<div style="display:flex; flex-direction:row; border:solid;">
+		<div style="background:lightbronze;">
+		<h2>What previous IT experience do I have?</h2>		
+		</div>
+		<div style="background:lightsilver;">
+		<h2>My previous IT skills I had gathered from completing a level three Computer Science Diploma.</h2>
+		</div>
+		<div style="background:lightbronze;">
+		<h2>Why am I doing this course?</h3>
+		</div>
+		<div style="background:lightsilver;">
+		<h2>I am doing this course to gain a deeper knowledge of IT to use out in the world and garner new experience.</h4>
+		</div>
+		<div style="background:lightbronze;">
+		<h2>What do I hope to gain from this course?</h5>
+		</div>
+		<div style="background:lightsilver;">
+		<h2> hope to gain a greater understanding of IT and the certification at the end of this course to put on my CV.</h6>
+	<h2>Lauren Pugsley 2023</h2>
+</div>
+</footer>
+</body>
+</html>
